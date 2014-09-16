@@ -1,6 +1,7 @@
 /*Calculator 2 v2*/
 /*User can now change numbers between function runs*/
 /*Mathias Jönsson*/
+/*Now with added Git*/
 
 #include <stdio.h>
 
